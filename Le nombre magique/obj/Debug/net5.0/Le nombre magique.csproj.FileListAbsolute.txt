@@ -1,0 +1,16 @@
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\Le nombre magique.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\Le nombre magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\Le nombre magique.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\Le nombre magique.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\Le nombre magique.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\bin\Debug\net5.0\Le nombre magique.exe
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\bin\Debug\net5.0\Le nombre magique.deps.json
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\bin\Debug\net5.0\Le nombre magique.runtimeconfig.json
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\bin\Debug\net5.0\Le nombre magique.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\bin\Debug\net5.0\Le nombre magique.dll
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\bin\Debug\net5.0\ref\Le nombre magique.dll
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\bin\Debug\net5.0\Le nombre magique.pdb
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\Le nombre magique.dll
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\ref\Le nombre magique.dll
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\Le nombre magique.pdb
+C:\Users\alexi\source\repos\Le nombre magique\Le nombre magique\obj\Debug\net5.0\Le nombre magique.genruntimeconfig.cache

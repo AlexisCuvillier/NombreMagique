@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Le nombre magique/1.0.0": {
+        "runtime": {
+          "Le nombre magique.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Le nombre magique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
